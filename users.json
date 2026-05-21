@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nom": "om",
+        "prenom": "om",
+        "email": "om",
+        "password": "b36ffc3cea02a265926cab0e3bb647aace65345d7999c8604b2a3067fdc6f234"
+    },
+    {
+        "id": 8,
+        "nom": "yass",
+        "prenom": "yass",
+        "email": "tysry",
+        "password": "6bef9b6380abc8846a2f5a330a1c15e6c6d864e402009ffaee8d5601a0408725"
+    },
+    {
+        "id": 5,
+        "nom": "hamza",
+        "prenom": "hamza",
+        "email": "hamza",
+        "password": "38f95d245052d37029bb1f504bb53ef8947165fa7f3339b19aea01c7b837dd90"
+    },
+    {
+        "id": 8,
+        "nom": "omar",
+        "prenom": "omar",
+        "email": "omar",
+        "password": "21297e6e966afbd06e8f08c4525ae2edcbd3696cc6bc436037e278d4b1e67b4d"
+    }
+]
